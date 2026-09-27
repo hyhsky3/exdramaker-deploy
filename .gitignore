@@ -1,0 +1,5 @@
+# 开发过程文件，不参与部署
+_backup_original/
+_diag/
+_bat/
+.workbuddy/
